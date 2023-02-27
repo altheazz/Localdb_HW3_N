@@ -18,12 +18,6 @@ namespace Localdb_HW3_N
         {
             InitializeComponent();
         }
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-
-            
-        }
         private void ClearTextBoxes()
         {
             textBox1.Clear();
